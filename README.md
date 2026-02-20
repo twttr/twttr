@@ -23,6 +23,8 @@
 
 🛒 **[Multi-Product Comparator](https://github.com/twttr/multi-product-comparator)** — Chrome extension that highlights shops carrying all your selected products on price comparison sites `TypeScript`
 
+🚀 **[SpaceMover](https://github.com/twttr/spacemover)** — macOS menu bar utility to move Spaces between displays via clicks or keyboard shortcuts `Swift`
+
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/-twttr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/twttr)
