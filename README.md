@@ -4,13 +4,13 @@
 
 ## Projects
 
-📺 **[KPuppy](https://github.com/twttr/KPuppy)** — KinoPub client for LG webOS TV `TypeScript`
+**[KPuppy](https://github.com/twttr/KPuppy)** — KinoPub client for LG webOS TV
 
-🪞 **[MirrorEU](https://github.com/twttr/mirroreu)** — macOS menu bar app that enables iPhone Mirroring in the EU `Swift`
+**[MirrorEU](https://github.com/twttr/mirroreu)** — macOS menu bar app that enables iPhone Mirroring in the EU
 
-🛒 **[Multi-Product Comparator](https://github.com/twttr/multi-product-comparator)** — Chrome extension that highlights shops carrying all your selected products on price comparison sites `TypeScript`
+**[Multi-Product Comparator](https://github.com/twttr/multi-product-comparator)** — Chrome extension that highlights shops carrying all your selected products on price comparison sites
 
-🚀 **[SpaceMover](https://github.com/twttr/spacemover)** — macOS menu bar utility to move Spaces between displays via clicks or keyboard shortcuts `Swift`
+**[SpaceMover](https://github.com/twttr/spacemover)** — macOS menu bar utility to move Spaces between displays via clicks or keyboard shortcuts
 
 ## Connect
 
