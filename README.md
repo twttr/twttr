@@ -13,11 +13,7 @@
 
 ## Projects
 
-🔵 **[Blurry](https://github.com/twttr/blurry)** — macOS menu bar app for creating blur, darken, or picture overlays on screen areas `Swift`
-
 📺 **[KPuppy](https://github.com/twttr/KPuppy)** — KinoPub client for LG webOS TV `TypeScript`
-
-⚡ **[kpuppy-backend](https://github.com/twttr/kpuppy-backend)** — Real-time comments backend with WebSocket, admin panel, and SQLite storage `Go`
 
 🪞 **[MirrorEU](https://github.com/twttr/mirroreu)** — macOS menu bar app that enables iPhone Mirroring in the EU `Swift`
 
@@ -29,4 +25,3 @@
 
 [![GitHub](https://img.shields.io/badge/-twttr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/twttr)
 [![LinkedIn](https://img.shields.io/badge/-twttr-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/twttr)
-[![Blog](https://img.shields.io/badge/-me.twttr.io-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://me.twttr.io)
